@@ -1,0 +1,41 @@
+{
+  "pl": {
+    "title": "Sterownik ST DFU — Customer",
+    "confirm": "Zainstalować pakiet sterownika ST DFU 3.0.6.1? Windows poprosi o zgodę administratora. Instalator korzysta z PnPUtil, nie z DPInst. Instaluje sterownik na zgodnych urządzeniach; nie zapisuje firmware licznika ani roweru. Warunki ST znajdują się w SLA0044.txt.",
+    "integrity": "Plik pakietu jest uszkodzony, zmieniony lub nieobecny:",
+    "signature": "Nie udało się potwierdzić podpisu katalogu ST. Instalacja nie została rozpoczęta. Nie wyłączaj sprawdzania podpisów sterowników.",
+    "os": "Ten instalator wymaga Windows 10 w wersji 1607 lub nowszej.",
+    "arch": "Ten pakiet zawiera sterowniki x86/x64, nie ARM64.",
+    "failed": "Windows nie potwierdził instalacji. Kod:",
+    "error": "Instalacja nie została zakończona.",
+    "reboot": "Windows zgłosił konieczność ponownego uruchomienia komputera. Po restarcie podłącz licznik w DFU i odśwież USB DFU w Customerze.",
+    "ready": "Pakiet sterownika został zainstalowany. Windows udostępnia aktywny interfejs ST DFU. W Customerze wybierz ODŚWIEŻ USB DFU. Odczyt i zgodność licznika wymagają osobnego sprawdzenia.",
+    "installed": "Pakiet sterownika został dodany, ale nie potwierdzono aktywnego interfejsu licznika. Podłącz licznik w trybie DFU i odśwież USB DFU w Customerze. W razie potrzeby odłącz i ponownie podłącz przewód USB."
+  },
+  "en": {
+    "title": "ST DFU driver — Customer",
+    "confirm": "Install the ST DFU 3.0.6.1 driver package? Windows will request administrator approval. This installer uses PnPUtil, not DPInst. It installs the driver on matching devices; it does not write display or bicycle firmware. ST terms are included in SLA0044.txt.",
+    "integrity": "A package file is damaged, modified or missing:",
+    "signature": "The ST catalog signature could not be verified. Installation has not started. Do not disable driver signature enforcement.",
+    "os": "This installer requires Windows 10 version 1607 or later.",
+    "arch": "This package contains x86/x64 drivers, not ARM64 drivers.",
+    "failed": "Windows did not confirm installation. Code:",
+    "error": "Installation was not completed.",
+    "reboot": "Windows requires a restart. After restarting, connect the display in DFU mode and refresh USB DFU in Customer.",
+    "ready": "The driver package has been installed. Windows exposes an active ST DFU interface. Select REFRESH USB DFU in Customer. Reading the display and checking compatibility are separate steps.",
+    "installed": "The driver package was added, but an active display interface was not confirmed. Connect the display in DFU mode and refresh USB DFU in Customer. Disconnect and reconnect the USB cable if necessary."
+  },
+  "de": {
+    "title": "ST-DFU-Treiber — Customer",
+    "confirm": "ST-DFU-Treiberpaket 3.0.6.1 installieren? Windows fordert die Zustimmung eines Administrators an. Dieses Installationsprogramm verwendet PnPUtil, nicht DPInst. Es installiert den Treiber für passende Geräte; die Firmware des Displays oder Fahrrads wird nicht geschrieben. Die ST-Bedingungen stehen in SLA0044.txt.",
+    "integrity": "Eine Paketdatei ist beschädigt, verändert oder fehlt:",
+    "signature": "Die Signatur des ST-Katalogs konnte nicht bestätigt werden. Die Installation wurde nicht gestartet. Deaktivieren Sie nicht die Treibersignaturprüfung.",
+    "os": "Dieses Installationsprogramm benötigt Windows 10 Version 1607 oder neuer.",
+    "arch": "Dieses Paket enthält x86/x64-Treiber, keine ARM64-Treiber.",
+    "failed": "Windows hat die Installation nicht bestätigt. Code:",
+    "error": "Die Installation wurde nicht abgeschlossen.",
+    "reboot": "Windows benötigt einen Neustart. Verbinden Sie danach das Display im DFU-Modus und aktualisieren Sie USB DFU in Customer.",
+    "ready": "Das Treiberpaket wurde installiert. Windows stellt eine aktive ST-DFU-Schnittstelle bereit. Wählen Sie USB DFU AKTUALISIEREN in Customer. Das Auslesen und die Kompatibilitätsprüfung erfolgen separat.",
+    "installed": "Das Treiberpaket wurde hinzugefügt, aber eine aktive Display-Schnittstelle wurde nicht bestätigt. Verbinden Sie das Display im DFU-Modus und aktualisieren Sie USB DFU in Customer. Trennen und verbinden Sie bei Bedarf das USB-Kabel erneut."
+  }
+}

@@ -1,0 +1,91 @@
+PANASONIC NEXT GEN COMPATIBILITY CUSTOMER — LICENCJA PROPRIETARY / FREEWARE
+Wersja dokumentu: 7 października 2026 r.
+
+Copyright (c) 2026 Łukasz Łąkowski (ganjaq). All rights reserved.
+Licencjodawca: Łukasz Łąkowski, Polska.
+Kontakt: ganjaq@interia.pl
+
+Licencja zatwierdzona przez właściciela 7 października 2026 r.
+Dokument nie wprowadza licencji open-source.
+
+1. ZAKRES PRAW
+Własne części programu, dokumentacja i materiały, do których licencjodawcy
+przysługują prawa, pozostają jego własnością intelektualną. Ta licencja nie
+obejmuje cudzych komponentów ani nie przyznaje praw, których licencjodawca
+nie posiada. Publiczna dostępność repozytorium nie oznacza zastosowania MIT,
+GPL, Apache ani innej licencji open-source.
+
+2. DOZWOLONE KORZYSTANIE
+Użytkownik otrzymuje niewyłączne, bezpłatne prawo pobrania, przechowywania,
+instalowania i używania legalnie udostępnionej kopii programu do diagnostyki
+i obsługi urządzeń, do których ma uprawnienie. Może sporządzać kopie potrzebne
+do instalacji i zabezpieczenia własnego użytkowania. Dozwolone jest także
+używanie narzędzia w warsztacie przy urządzeniach powierzonych za zgodą ich
+właściciela; nie oznacza to prawa sprzedaży ani sublicencjonowania programu.
+
+Prawo korzystania z pobranej wersji nie wymaga zakupu aplikacji. Dostęp do
+poszczególnych funkcji może wymagać zgodności urządzenia, dodatkowych uprawnień
+i działającej usługi. Licencja nie zapewnia bezterminowego działania serwera
+ani dostępu do każdej funkcji. Warunki konkretnej odpłatnej usługi, jeśli
+zostanie w przyszłości zaoferowana, wymagają osobnego przedstawienia i akceptacji.
+
+3. ROZPOWSZECHNIANIE I SPRZEDAŻ
+Bez odrębnej zgody licencjodawcy nie wolno redystrybuować programu, sprzedawać
+jego kopii, sublicencjonować go, dołączać go do cudzych paczek ani publikować
+zmodyfikowanych wersji jako własnych lub pod własnym oznaczeniem. Nie wolno
+usuwać oznaczeń autorstwa i praw ani sugerować otrzymania praw autorskich.
+Można udostępniać odnośnik do oficjalnego repozytorium lub strony pobierania.
+
+Zastrzeżenia te nie wyłączają praw, których nie można ograniczyć umową.
+Jeżeli właściciel udostępnia repozytorium publicznie na GitHubie, pozostają
+uprawnienia wynikające z obowiązujących warunków GitHub, w szczególności
+przeglądanie i fork w zakresie funkcjonalności i warunków platformy. Nie jest
+to dodatkowa zgoda na sprzedaż programu ani dowolną dystrybucję poza platformą.
+
+4. MODYFIKOWANIE I REVERSE ENGINEERING
+Poza zgodą licencjodawcy i uprawnieniami wynikającymi z obowiązującego prawa
+nie udziela się zgody na modyfikowanie, dekompilowanie, dezasemblację ani inne
+odtwarzanie kodu własnych części programu. Ograniczenie nie narusza dozwolonego
+badania działania, poprawiania błędów, interoperacyjności i innych uprawnień,
+których nie można skutecznie wyłączyć. Warunki dotyczące cudzych komponentów
+wynikają z ich własnych licencji. Nie wolno obchodzić kontroli licencyjnych
+lub fałszować uprawnień do funkcji, z zastrzeżeniem bezwzględnie obowiązującego prawa.
+
+5. KOMPONENTY ZEWNĘTRZNE
+STDFU.dll, STTubeDevice30.dll oraz pakiet sterownika ST w drivers/ST_DFU
+podlegają odrębnej licencji STMicroelectronics, SLA0044 Rev5/February 2018,
+dołączonej jako drivers/ST_DFU/SLA0044.txt. Obowiązują wszystkie jej warunki,
+w tym ograniczenie użycia z urządzeniami wyprodukowanymi przez ST lub dla ST.
+Ta licencja proprietary nie zastępuje, nie ogranicza ani nie rozszerza licencji ST.
+Pełne warunki ST oraz oznaczenia praw należy zachować razem z tymi składnikami.
+
+PnPUtil, PowerShell i .NET Framework są składnikami lub środowiskiem Microsoft
+i podlegają ich właściwym warunkom. PnPUtil i DPInst nie są redystrybuowane
+w tym wydaniu. Instalator korzysta z PnPUtil i Windows PowerShell istniejących
+w systemie użytkownika. Nie udzielamy praw do systemu Windows ani składników
+Microsoft. Firmware urządzeń i materiały innych właścicieli praw nie stają się
+naszą własnością wskutek użycia programu i nie są objęte naszą licencją proprietary.
+
+Nazwy Panasonic, Microsoft i STMicroelectronics nie oznaczają oficjalnego
+powiązania ani poparcia dla projektu. Zastrzeżenie to nie zastępuje wymaganych
+praw do używanych materiałów, znaków lub oprogramowania.
+
+6. BRAK NIEPRAWDZIWYCH GWARANCJI I ODPOWIEDZIALNOŚĆ
+Program jest narzędziem diagnostycznym/serwisowym, którego zgodność zależy
+od urządzenia i środowiska. Nie zapewnia się działania z każdym modelem,
+braku błędów, określonego efektu modyfikacji ani nieprzerwanej dostępności usług.
+Operacje WRITE/FLASH wiążą się z ryzykiem opisanym w TERMS_OF_USE.md.
+
+Ograniczenia odpowiedzialności obowiązują tylko w zakresie dozwolonym prawem.
+Nie wyłącza się odpowiedzialności, której wyłączenie jest niedopuszczalne,
+bezwzględnie obowiązujących praw konsumenta ani uzgodnionych obowiązków
+dotyczących konkretnej usługi. Bezpłatność programu nie stanowi sama w sobie
+zwolnienia z odpowiedzialności.
+
+7. POZOSTAŁE DOKUMENTY
+Zasady użytkowania opisuje TERMS_OF_USE.md, a przetwarzanie danych —
+PRIVACY_POLICY.md. Ta licencja nie jest zgodą na przetwarzanie danych.
+Zmiana warunków dla nowych wydań nie odbiera automatycznie praw wcześniej
+skutecznie udzielonych. W sprawach nieuregulowanych stosuje się prawo właściwe
+wynikające z obowiązujących przepisów; nie narzuca się wyłącznego sądu
+sprzecznego z obowiązkową ochroną użytkownika.

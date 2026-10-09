@@ -1,0 +1,2 @@
+# Preserve exact vendor bytes, signed package integrity and installer hashes.
+* -text
